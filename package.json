@@ -1,0 +1,27 @@
+{
+  "name": "node.js_rest_api",
+  "version": "1.0.0",
+  "description": "A simple Node.js RESTful API for an online shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorx716/Node.js_REST_API.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Victor Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorx716/Node.js_REST_API/issues"
+  },
+  "homepage": "https://github.com/victorx716/Node.js_REST_API#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
